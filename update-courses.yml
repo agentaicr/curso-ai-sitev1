@@ -1,0 +1,73 @@
+name: 🤖 Actualizar cursos con IA
+
+on:
+  # Corre cada lunes a las 8am UTC (5am hora Costa Rica / México)
+  schedule:
+    - cron: "0 8 * * 1"
+
+  # Permite correrlo manualmente desde GitHub
+  workflow_dispatch:
+    inputs:
+      force_update:
+        description: "Forzar actualización aunque no haya cambios"
+        required: false
+        default: "false"
+
+jobs:
+  update-courses:
+    name: Buscar y actualizar cursos
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write  # Necesario para hacer commit
+
+    steps:
+      # ── 1. Clonar el repo ──────────────────────────────────────────────
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Instalar Node.js ────────────────────────────────────────────
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # ── 3. Correr el agente ────────────────────────────────────────────
+      - name: Ejecutar agente de cursos
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/update-courses.js
+
+      # ── 4. Verificar si hubo cambios ───────────────────────────────────
+      - name: Verificar cambios
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No hay cambios en index.html"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Hay cambios para commitear"
+          fi
+
+      # ── 5. Commit y push ───────────────────────────────────────────────
+      - name: Commit cambios
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "curso-ai-bot"
+          git config user.email "bot@curso-ai.com"
+          git add index.html logs/
+          git commit -m "🤖 Actualización automática de cursos — $(date +'%Y-%m-%d')"
+          git push
+
+      # ── 6. Resumen ─────────────────────────────────────────────────────
+      - name: Resumen
+        run: |
+          if [ "${{ steps.changes.outputs.changed }}" == "true" ]; then
+            echo "✅ Cursos actualizados y desplegados en Vercel"
+          else
+            echo "ℹ️ No hubo cambios esta semana"
+          fi
