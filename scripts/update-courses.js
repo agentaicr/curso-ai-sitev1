@@ -19,37 +19,17 @@ if (!ANTHROPIC_API_KEY) {
 
 // ─── 1. PROMPT DEL AGENTE ──────────────────────────────────────────────────
 
-const AGENT_PROMPT = `
-Eres un agente especialista en marketing de afiliados de Hotmart.
+const AGENT_PROMPT = `Busca en Hotmart 6 cursos populares de Inteligencia Artificial en español.
 
-Tu tarea es buscar en internet los cursos de Inteligencia Artificial más populares 
-y mejor valorados actualmente disponibles en Hotmart en español.
-
-Para cada curso necesitas encontrar:
-1. El nombre exacto del curso
-2. Una descripción breve (máximo 100 caracteres)
-3. El precio actual en dólares
-4. El precio original (tachado) si tiene descuento
-5. La URL del producto en Hotmart (formato: https://hotmart.com/product/...)
-6. La categoría: "ChatGPT", "Machine Learning", "Automatización", "IA para Diseño", "Datos", "IA para Negocios", o "Programación con IA"
-7. Un emoji representativo
-8. La valoración (ej: 4.8)
-9. El número de reseñas aproximado
-10. Si es "hot" (más vendido), "new" (nuevo), o "popular"
-
-Busca al menos 6 cursos diferentes de categorías distintas.
-Prioriza cursos con muchas reseñas positivas y buenas ventas.
-
-IMPORTANTE: Devuelve ÚNICAMENTE un JSON válido con esta estructura exacta,
-sin markdown, sin backticks, sin texto adicional:
+Devuelve SOLO este JSON sin texto adicional:
 
 {
-  "updated_at": "YYYY-MM-DD",
+  "updated_at": "2025-01-20",
   "courses": [
     {
       "id": 1,
       "title": "Nombre del curso",
-      "description": "Descripción corta del curso",
+      "description": "Descripción corta máximo 80 caracteres",
       "price": 97,
       "original_price": 197,
       "hotmart_url": "https://hotmart.com/product/...",
@@ -64,8 +44,7 @@ sin markdown, sin backticks, sin texto adicional:
   ]
 }
 
-Para thumbnail_class usa: t1, t2, t3, t4, t5, t6 rotando en orden.
-`;
+Usa thumbnail_class: t1 a t6 en orden. Badge puede ser: hot, new, popular.`;
 
 // ─── 2. LLAMADA AL AGENTE CON WEB SEARCH ──────────────────────────────────
 
