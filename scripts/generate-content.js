@@ -86,9 +86,44 @@ async function generateContent(courses) {
   if (!response.ok) throw new Error(`API error ${response.status}`);
   const data = await response.json();
   const text = data.content?.find(b => b.type === "text")?.text || "";
-  const match = text.match(/\{[\s\S]*\}/);
+
+  // Limpiar el texto antes de parsear
+  let jsonText = text.trim();
+  jsonText = jsonText.replace(/^```json\n?/, "").replace(/\n?```$/, "").trim();
+
+  // Extraer solo el bloque JSON
+  const match = jsonText.match(/\{[\s\S]*\}/);
   if (!match) throw new Error("No se encontró JSON en la respuesta");
-  return JSON.parse(match[0]);
+
+  // Limpiar caracteres problemáticos
+  let cleaned = match[0]
+    .replace(/[\u0000-\u001F\u007F]/g, " ")  // caracteres de control
+    .replace(/\n/g, "\\n")                    // saltos de línea
+    .replace(/\r/g, "")                       // retornos de carro
+    .replace(/\\n\\n/g, "\\n")               // dobles saltos
+    .replace(/"/g, '"')                       // comillas especiales
+    .replace(/"/g, '"');                      // comillas especiales
+
+  try {
+    return JSON.parse(cleaned);
+  } catch(e) {
+    // Si falla, devolver contenido por defecto
+    console.log("⚠️ JSON inválido, usando contenido por defecto");
+    return {
+      date: new Date().toLocaleDateString("es-ES"),
+      post: {
+        type: "tip",
+        caption: "🤖 La Inteligencia Artificial está cambiando el mundo.\n\n¿Ya estás aprovechando estas herramientas?\n\n👉 Link en bio para ver nuestros cursos\n\n#IA #InteligenciaArtificial #CursoIA #AprendeIA",
+        course_featured: null
+      },
+      story: {
+        line1: "🤖 ¿Usas IA en tu trabajo?",
+        line2: "Aprende con los mejores cursos",
+        line3: "👆 Link en bio",
+        link: null
+      }
+    };
+  }
 }
 
 function saveToFile(content) {
