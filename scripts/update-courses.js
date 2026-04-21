@@ -111,12 +111,16 @@ async function fetchCourses() {
     throw new Error("El agente no devolvió texto");
   }
 
-  // Limpiar posibles backticks de markdown
+// Extraer JSON aunque venga con texto antes o después
   let jsonText = textBlock.text.trim();
   jsonText = jsonText.replace(/^```json\n?/, "").replace(/\n?```$/, "").trim();
 
-  // Parsear JSON
-  const parsed = JSON.parse(jsonText);
+  // Buscar el JSON dentro del texto
+  const jsonMatch = jsonText.match(/\{[\s\S]*\}/);
+  if (!jsonMatch) {
+    throw new Error("No se encontró JSON en la respuesta del agente");
+  }
+  const parsed = JSON.parse(jsonMatch[0]);
   console.log(`📦 Encontrados ${parsed.courses.length} cursos`);
   return parsed;
 }
