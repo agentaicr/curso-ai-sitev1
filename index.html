@@ -848,11 +848,20 @@
   </footer>
 
   <script>
-    // Filtro de categorías (UI solo — puedes extender con lógica real)
+    
+// Filtro de categorías con lógica real
     document.querySelectorAll('.cat-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
+        const cat = btn.getAttribute('data-cat');
+        document.querySelectorAll('.course-card').forEach(card => {
+          if (cat === 'todos' || card.getAttribute('data-category') === cat) {
+            card.style.display = 'block';
+          } else {
+            card.style.display = 'none';
+          }
+        });
       });
     });
 
