@@ -20,7 +20,7 @@ function buildCourseCard(course, index) {
                      badge.badge === "new" ? "card-badge new" : "card-badge";
 
   return `
-      <a class="course-card" href="${course.affiliate_url}" target="_blank" rel="noopener">
+      <a class="course-card" href="${course.affiliate_url}" target="_blank" rel="noopener" data-category="${course.category}">
         <div class="card-thumbnail ${thumbnail}">${emoji}</div>
         <div class="card-body">
           <div class="card-meta">
