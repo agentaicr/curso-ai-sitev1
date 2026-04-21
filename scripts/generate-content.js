@@ -226,7 +226,7 @@ async function main() {
     const content = await generateContent(courses);
     console.log(`✅ Tipo de contenido: ${content.post.type}`);
     saveToFile(content);
-    await sendEmail(content);
+    try { await sendEmail(content); } catch(e) { console.log("⚠️ Email omitido:", e.message); }
     console.log("=".repeat(50));
     console.log("✅ Completado");
     console.log(`📸 ${content.post.caption.substring(0, 80)}...`);
