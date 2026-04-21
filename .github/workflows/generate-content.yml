@@ -37,23 +37,14 @@ jobs:
           GMAIL_PASSWORD: ${{ secrets.GMAIL_PASSWORD }}
         run: node scripts/generate-content.js
 
-      - name: Verificar cambios
-        id: changes
-        run: |
-          if git diff --quiet; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-          else
-            echo "changed=true" >> $GITHUB_OUTPUT
-          fi
-
       - name: Commit contenido generado
-        if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "curso-ai-bot"
           git config user.email "bot@curso-ai.com"
-          git add content/
-          git commit -m "📲 Contenido Instagram — $(date +'%Y-%m-%d')"
-          git push
+          git add -f content/
+          git status
+          git diff --staged --quiet || git commit -m "📲 Contenido Instagram — $(date +'%Y-%m-%d')"
+          git push || echo "Nada que pushear"
 
       - name: Resumen
         run: echo "✅ Contenido generado y enviado a agent.ai.cr@gmail.com"
