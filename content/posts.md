@@ -1,6 +1,59 @@
 # 📲 Contenido Instagram — curso-ai.com
 
 ---
+## 📅 miércoles, 22 de abril de 2026 — PROMO
+
+### 🖼️ IMAGEN
+![Post 2026-04-22](content/images/post-2026-04-22.png)
+> Archivo: `content/images/post-2026-04-22.png`
+> Descárgala desde GitHub para subirla a Instagram
+
+### 📸 POST — Caption completo
+```
+¿Sabés que hay personas ganando dinero real creando simples PDFs con ChatGPT? 💸🤖
+
+No necesitás ser diseñador, ni programador, ni tener experiencia previa. Solo necesitás una buena guía que te muestre el camino paso a paso.
+
+Está pasando ahora mismo y vos podés ser parte de esto 👇
+
+📄✨ «Gana Dinero Creando PDFs con ChatGPT — Guía Paso a Paso» es exactamente eso: una guía práctica y directa que te enseña cómo monetizar tu conocimiento (o el de la IA) generando productos digitales en PDF que la gente quiere comprar.
+
+¿Qué vas a aprender?
+✅ Cómo usar ChatGPT para crear PDFs de valor en minutos
+✅ Qué tipo de PDFs se venden mejor hoy
+✅ Dónde y cómo venderlos para generar ingresos reales
+✅ Cómo escalar tu producción sin esfuerzo extra
+
+🚀 En la economía digital actual, quien aprende a crear y vender activos digitales gana. Y un PDF bien hecho con IA puede venderse una y otra vez, mientras vos dormís.
+
+Esto no es teoría. Es un modelo de negocio que ya funciona y que podés arrancar hoy mismo.
+
+👉 Hacé clic en el link de nuestra bio y empezá tu camino hacia los ingresos digitales con IA.
+
+💡 El mejor momento para empezar fue ayer. El segundo mejor momento es ahora.
+
+#InteligenciaArtificial #ChatGPT #GanarDineroConIA #NegociosDigitales #ProductosDigitales #EmprendimientoDigital #IngresosPasivos #IAenEspañol #MarketingDigital #EmprendedoresLatinos
+```
+> 🎓 Curso promocionado: Gana Dinero Creando PDFs con ChatGPT — Guía Paso a Paso
+
+
+### 📱 STORY — 3 líneas
+```
+Creá PDFs y ganá dinero
+Con ChatGPT es posible
+¡Empezá hoy mismo!
+🔗 https://go.hotmart.com/F105497474Y
+```
+
+### 📋 Instrucciones para publicar
+1. Descarga la imagen de arriba desde GitHub
+2. Abre Instagram → Nueva publicación → sube la imagen
+3. Copia el caption completo y pégalo
+4. Publica el post
+5. Luego crea una Story nueva con las 3 líneas
+
+
+---
 ## 📅 martes, 21 de abril de 2026 — TIP
 
 ### 🖼️ IMAGEN
