@@ -1,6 +1,43 @@
 # 📲 Contenido Instagram — curso-ai.com
 
 ---
+## 📅 viernes, 24 de abril de 2026 — FRASE
+
+### 🖼️ IMAGEN
+![Post 2026-04-24](content/images/post-2026-04-24.png)
+> Archivo: `content/images/post-2026-04-24.png`
+> Descárgala desde GitHub para subirla a Instagram
+
+### 📸 POST — Caption completo
+```
+🚀 El futuro del trabajo no le pertenece a quienes temen a la IA, sino a quienes aprenden a trabajar con ella. 🤖✨
+
+La inteligencia artificial no vino a reemplazarte, vino a potenciarte. Cada habilidad que adquieras hoy en IA es una puerta que se abre mañana en tu carrera. 💡
+
+El momento de aprender es AHORA. No esperes a que el mundo cambie sin ti. 🌍⚡
+
+¿Ya estás aprendiendo IA? Cuéntanos en los comentarios 👇
+
+#InteligenciaArtificial #FuturoDelTrabajo #AprendeIA #TransformacionDigital #IAenEspañol #TecnologiaLatam #CrecimientoProfesional #SkillsDelFuturo #IAnspira #RevolucionIA
+```
+
+
+### 📱 STORY — 3 líneas
+```
+La IA no te reemplaza,
+te hace más poderoso.
+¡Empieza a aprender hoy!
+```
+
+### 📋 Instrucciones para publicar
+1. Descarga la imagen de arriba desde GitHub
+2. Abre Instagram → Nueva publicación → sube la imagen
+3. Copia el caption completo y pégalo
+4. Publica el post
+5. Luego crea una Story nueva con las 3 líneas
+
+
+---
 ## 📅 miércoles, 22 de abril de 2026 — PROMO
 
 ### 🖼️ IMAGEN
