@@ -1,6 +1,55 @@
 # 📲 Contenido Instagram — curso-ai.com
 
 ---
+## 📅 miércoles, 29 de abril de 2026 — TIP
+
+### 🖼️ IMAGEN
+![Post 2026-04-29](content/images/post-2026-04-29.png)
+> Archivo: `content/images/post-2026-04-29.png`
+> Descárgala desde GitHub para subirla a Instagram
+
+### 📸 POST — Caption completo
+```
+🤖💡 TIP DE IA PARA HOY: Usa ChatGPT como tu editor personal de textos profesionales
+
+Si escribes emails, reportes o mensajes importantes, prueba este prompt AHORA MISMO:
+
+👇 Copia y pega esto:
+
+"Actúa como un editor profesional. Reescribe el siguiente texto haciéndolo más claro, conciso y persuasivo, manteniendo mi tono personal. Luego explícame brevemente qué cambios hiciste y por qué:
+[pega aquí tu texto]"
+
+✅ Lo que obtendrás:
+→ Texto mejorado al instante
+→ Aprenderás por qué funciona mejor
+→ Mejorarás tu escritura con el tiempo
+
+🔥 Bonus: Agrega al final del prompt → "versión formal" o "versión casual" según lo que necesites.
+
+Esto funciona en ChatGPT, Gemini, Claude o cualquier IA conversacional. ¡Gratis, ya mismo!
+
+¿Lo vas a probar hoy? Cuéntame en los comentarios 👇
+
+#InteligenciaArtificial #TipsDeIA #ChatGPT #ProductividadConIA #IAenEspañol #HerramientasIA #TecnologíaLatam #IAParaTodos #TransformaciónDigital #ArtificialIntelligence
+```
+
+
+### 📱 STORY — 3 líneas
+```
+Edita textos con IA
+Rápido, gratis y fácil
+¡Pruébalo ahora mismo!
+```
+
+### 📋 Instrucciones para publicar
+1. Descarga la imagen de arriba desde GitHub
+2. Abre Instagram → Nueva publicación → sube la imagen
+3. Copia el caption completo y pégalo
+4. Publica el post
+5. Luego crea una Story nueva con las 3 líneas
+
+
+---
 ## 📅 lunes, 27 de abril de 2026 — TENDENCIA
 
 ### 🖼️ IMAGEN
