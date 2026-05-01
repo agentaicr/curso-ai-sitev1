@@ -1,6 +1,59 @@
 # 📲 Contenido Instagram — curso-ai.com
 
 ---
+## 📅 viernes, 1 de mayo de 2026 — TENDENCIA
+
+### 🖼️ IMAGEN
+![Post 2026-05-01](content/images/post-2026-05-01.png)
+> Archivo: `content/images/post-2026-05-01.png`
+> Descárgala desde GitHub para subirla a Instagram
+
+### 📸 POST — Caption completo
+```
+🚀 Los Agentes de IA ya no son el futuro… ¡son el PRESENTE! 🤖✨
+
+En 2026, los Agentes Autónomos de Inteligencia Artificial están literalmente redefiniendo cómo trabajamos, creamos y tomamos decisiones.
+
+¿Qué es un Agente de IA? Es un sistema que no solo responde preguntas… sino que PIENSA, PLANIFICA y EJECUTA tareas completas por sí solo, sin que tengas que supervisar cada paso. 🧠⚡
+
+🔥 Las herramientas que están liderando esta revolución HOY:
+
+🔹 **OpenAI Operator** – Navega la web, compra boletos, llena formularios y gestiona tareas en tu nombre de forma completamente autónoma.
+
+🔹 **Google Gemini Ultra Agents** – Integrado con todo el ecosistema Google, gestiona tu agenda, correos y proyectos en tiempo real.
+
+🔹 **Anthropic Claude Agents** – Ejecuta flujos de trabajo complejos con razonamiento profundo y toma decisiones éticas avanzadas.
+
+🔹 **AutoGen de Microsoft** – Permite que múltiples agentes colaboren entre sí como un equipo virtual para resolver problemas empresariales.
+
+🔹 **Manus AI** – El agente todo-en-uno que investiga, redacta, programa y hasta gestiona redes sociales de forma independiente.
+
+💡 Imagina tener un equipo de 10 personas trabajando 24/7 para ti… pero en formato de IA. Eso es exactamente lo que está pasando ahora mismo en las empresas más innovadoras del mundo.
+
+Las personas que aprendan a DIRIGIR estos agentes serán las más valiosas del mercado laboral en los próximos 3 años. 📈
+
+¿Ya estás usando algún agente de IA en tu trabajo o negocio? 👇 Cuéntame en los comentarios.
+
+#InteligenciaArtificial #AgentesDeIA #TendenciasIA #FuturoDigital #AutomatizaciónIA #TransformaciónDigital #IAenEspañol #TecnologíaLatam #InnovaciónDigital #IAParaNegocios
+```
+
+
+### 📱 STORY — 3 líneas
+```
+Los Agentes IA llegaron para quedarse
+Trabajan solos mientras tú descansas
+¿Ya usas uno?
+```
+
+### 📋 Instrucciones para publicar
+1. Descarga la imagen de arriba desde GitHub
+2. Abre Instagram → Nueva publicación → sube la imagen
+3. Copia el caption completo y pégalo
+4. Publica el post
+5. Luego crea una Story nueva con las 3 líneas
+
+
+---
 ## 📅 miércoles, 29 de abril de 2026 — TIP
 
 ### 🖼️ IMAGEN
