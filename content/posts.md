@@ -1,6 +1,56 @@
 # 📲 Contenido Instagram — curso-ai.com
 
 ---
+## 📅 lunes, 4 de mayo de 2026 — PROMO
+
+### 🖼️ IMAGEN
+![Post 2026-05-04](content/images/post-2026-05-04.png)
+> Archivo: `content/images/post-2026-05-04.png`
+> Descárgala desde GitHub para subirla a Instagram
+
+### 📸 POST — Caption completo
+```
+¿Y si pudieras crear tu propia app sin saber absolutamente nada de programación? 🤯
+
+Sí, leíste bien. Con Inteligencia Artificial hoy eso es una realidad al alcance de cualquier persona.
+
+💡 El curso 'Crea tu App con IA (sin saber programar)' te lleva de cero a tener tu propia aplicación funcional usando herramientas de IA que hacen el trabajo técnico por vos.
+
+✅ Sin código
+✅ Sin experiencia previa
+✅ Con resultados reales
+
+Imaginate poder lanzar ese proyecto que tenés en la cabeza hace meses, monetizarlo, ofrecerlo como servicio… todo eso es posible hoy, en 2026, con IA como tu aliada. 🚀
+
+La barrera tecnológica ya no existe. La única pregunta es: ¿cuándo vas a dar el paso?
+
+👇 El link para entrar al curso está en mi bio o hacé clic directo aquí:
+🔗 https://go.hotmart.com/X105497361S
+
+¡El futuro no espera, y vos tampoco deberías! 💪🤖
+
+#InteligenciaArtificial #CreaTuApp #SinProgramar #IAparaEmprendedores #AppConIA #NegociosDigitales #EmprendimientoLatino #TecnologíaIA #FuturoDigital #HerramientasIA
+```
+> 🎓 Curso promocionado: Crea tu App con IA (sin saber programar)
+
+
+### 📱 STORY — 3 líneas
+```
+Creá tu app con IA
+Sin programar, en serio
+¡Entrá al curso ya!
+🔗 https://go.hotmart.com/X105497361S
+```
+
+### 📋 Instrucciones para publicar
+1. Descarga la imagen de arriba desde GitHub
+2. Abre Instagram → Nueva publicación → sube la imagen
+3. Copia el caption completo y pégalo
+4. Publica el post
+5. Luego crea una Story nueva con las 3 líneas
+
+
+---
 ## 📅 viernes, 1 de mayo de 2026 — TENDENCIA
 
 ### 🖼️ IMAGEN
