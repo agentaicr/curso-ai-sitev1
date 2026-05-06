@@ -1,6 +1,43 @@
 # 📲 Contenido Instagram — curso-ai.com
 
 ---
+## 📅 miércoles, 6 de mayo de 2026 — FRASE
+
+### 🖼️ IMAGEN
+![Post 2026-05-06](content/images/post-2026-05-06.png)
+> Archivo: `content/images/post-2026-05-06.png`
+> Descárgala desde GitHub para subirla a Instagram
+
+### 📸 POST — Caption completo
+```
+💡 El futuro no le pertenece a quienes temen la IA, sino a quienes la aprenden antes que todos. 🚀
+
+No se trata de competir con las máquinas. Se trata de convertirte en la persona que sabe cómo usarlas mejor que nadie. 🤖✨
+
+Cada día que inviertes en aprender Inteligencia Artificial es un paso más adelante en un mundo que avanza sin pausa. El conocimiento es tu ventaja competitiva más poderosa. 🎯
+
+¿Ya estás aprendiendo IA o todavía estás esperando el momento perfecto? 👇
+
+#InteligenciaArtificial #FuturoDelTrabajo #AprendeIA #TransformaciónDigital #HabilidadesDelFuturo #IAenEspañol #DesarrolloProfesional #TecnologíaLatam #MindsetGanador #RevoluciónIA
+```
+
+
+### 📱 STORY — 3 líneas
+```
+La IA no te reemplaza.
+Te reemplaza quien la usa.
+¡Empieza a aprender hoy!
+```
+
+### 📋 Instrucciones para publicar
+1. Descarga la imagen de arriba desde GitHub
+2. Abre Instagram → Nueva publicación → sube la imagen
+3. Copia el caption completo y pégalo
+4. Publica el post
+5. Luego crea una Story nueva con las 3 líneas
+
+
+---
 ## 📅 lunes, 4 de mayo de 2026 — PROMO
 
 ### 🖼️ IMAGEN
