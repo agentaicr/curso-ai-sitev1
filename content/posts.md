@@ -1,6 +1,61 @@
 # 📲 Contenido Instagram — curso-ai.com
 
 ---
+## 📅 viernes, 8 de mayo de 2026 — PROMO
+
+### 🖼️ IMAGEN
+![Post 2026-05-08](content/images/post-2026-05-08.png)
+> Archivo: `content/images/post-2026-05-08.png`
+> Descárgala desde GitHub para subirla a Instagram
+
+### 📸 POST — Caption completo
+```
+¿Sabés que la mayoría de las personas que usan ChatGPT están desperdiciando su potencial? 🤯
+
+La diferencia entre obtener resultados mediocres y resultados INCREÍBLES con IA está en UNA sola cosa: saber escribir buenos prompts. 🎯
+
+Y hoy te traigo exactamente eso 👇
+
+🔥 PROMPTS PARA HACER DINERO 🔥
+
+Un recurso diseñado para que dejes de perder tiempo probando y empieces a generar resultados reales con inteligencia artificial.
+
+✅ Prompts listos para usar desde el día 1
+✅ Enfocados en generar ingresos de verdad
+✅ Sin necesidad de ser experto en tecnología
+✅ Aplicables a cualquier rubro o negocio
+
+No es teoría. No son promesas vacías. Son herramientas concretas que podés implementar HOY mismo para que la IA trabaje para vos. 💸
+
+Viernes de acción 🚀 Mientras otros siguen improvisando, vos podés tener exactamente lo que necesitás para que cada conversación con la IA se convierta en una oportunidad de negocio.
+
+💡 El link está en la bio o hacé clic directo acá:
+👉 https://go.hotmart.com/R105480838F
+
+¿Ya usás IA para generar ingresos? Contame en los comentarios 👇
+
+#InteligenciaArtificial #ChatGPT #PromptEngineering #GanarDineroConIA #EmprendimientoDigital #IAenEspañol #NegociosOnline #PromptsChatGPT #LibertadFinanciera #IAParaTodos
+```
+> 🎓 Curso promocionado: PROMPTS PARA HACER DINERO
+
+
+### 📱 STORY — 3 líneas
+```
+¿Tu IA trabaja para vos?
+Prompts que generan dinero real
+Conseguilo hoy mismo 🔥
+🔗 https://go.hotmart.com/R105480838F
+```
+
+### 📋 Instrucciones para publicar
+1. Descarga la imagen de arriba desde GitHub
+2. Abre Instagram → Nueva publicación → sube la imagen
+3. Copia el caption completo y pégalo
+4. Publica el post
+5. Luego crea una Story nueva con las 3 líneas
+
+
+---
 ## 📅 miércoles, 6 de mayo de 2026 — FRASE
 
 ### 🖼️ IMAGEN
