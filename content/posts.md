@@ -1,6 +1,57 @@
 # 📲 Contenido Instagram — curso-ai.com
 
 ---
+## 📅 lunes, 11 de mayo de 2026 — TIP
+
+### 🖼️ IMAGEN
+![Post 2026-05-11](content/images/post-2026-05-11.png)
+> Archivo: `content/images/post-2026-05-11.png`
+> Descárgala desde GitHub para subirla a Instagram
+
+### 📸 POST — Caption completo
+```
+🤖💡 TIP DE IA PARA HOY: Usa ChatGPT como tu editor personal antes de enviar cualquier correo importante.
+
+Esto es lo que muy poca gente hace y marca una GRAN diferencia:
+
+✅ Escribe tu correo normalmente
+✅ Luego pégalo en ChatGPT con este prompt exacto:
+
+👉 *"Actúa como un editor profesional. Mejora la claridad, el tono y la persuasión de este correo sin cambiar mi intención original. Dame 2 versiones: una formal y una cercana."*
+
+En menos de 10 segundos tienes dos versiones pulidas, listas para elegir. 🚀
+
+¿Por qué funciona?
+Porque la IA no tiene ego, no le duele corregirte, y ve errores de estructura que tú no notas cuando escribes con prisa.
+
+📌 BONUS: Agrega al final del prompt → *"y señala si hay algo que pueda malinterpretarse"*
+
+Eso solo ya te va a salvar de más de un malentendido. 😅
+
+Guarda este tip, te lo agradecerás mañana. 🔖
+
+¿Ya usas IA para tus correos? Cuéntame abajo 👇
+
+#InteligenciaArtificial #TipsDeIA #ChatGPT #ProductividadConIA #IAenEspañol #TecnologíaLatam #IAParaTodos #TrucosDeChatGPT #TransformaciónDigital #IAHoy
+```
+
+
+### 📱 STORY — 3 líneas
+```
+Tu correo puede ser mejor
+Con IA en 10 segundos
+Pruébalo ahora mismo
+```
+
+### 📋 Instrucciones para publicar
+1. Descarga la imagen de arriba desde GitHub
+2. Abre Instagram → Nueva publicación → sube la imagen
+3. Copia el caption completo y pégalo
+4. Publica el post
+5. Luego crea una Story nueva con las 3 líneas
+
+
+---
 ## 📅 viernes, 8 de mayo de 2026 — PROMO
 
 ### 🖼️ IMAGEN
